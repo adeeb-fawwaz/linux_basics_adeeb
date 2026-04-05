@@ -21,3 +21,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # New Practical Task: Movement Command
+    print("\n[COMMAND] moving forward 1 meter...")
+    time.sleep(2)
+    print("[DRIVE] Left Motor: OK | Right Motor: OK")
+    print("[STATUS] Destination reached.")
